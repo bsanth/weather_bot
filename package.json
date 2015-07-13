@@ -4,9 +4,7 @@
   "description": "Replies with weather conditions",
   "main": "index.js",
   "dependencies": {
-    "node-telegram-bot-api": "^0.10.0",
-    "telegram-bot-api": "^0.3.0",
-    "weather": "^0.1.0"
+    "node-telegram-bot-api": "^0.10.0"
   },
   "devDependencies": {},
   "scripts": {
