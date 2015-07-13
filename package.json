@@ -1,0 +1,25 @@
+{
+  "name": "weather_bot",
+  "version": "1.0.0",
+  "description": "Replies with weather conditions",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.10.0",
+    "telegram-bot-api": "^0.3.0",
+    "weather": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santhosh Kumar Bala Krishnan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsanth/weather_bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bsanth/weather_bot/issues"
+  },
+  "homepage": "https://github.com/bsanth/weather_bot#readme"
+}
